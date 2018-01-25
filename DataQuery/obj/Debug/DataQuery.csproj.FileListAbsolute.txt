@@ -1,0 +1,11 @@
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\bin\Debug\DataQuery.exe.config
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\bin\Debug\DataQuery.exe
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\bin\Debug\DataQuery.pdb
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\bin\Debug\MySql.Data.dll
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.csprojResolveAssemblyReference.cache
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.Form1.resources
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.csproj.GenerateResource.Cache
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.csproj.CoreCompileInputs.cache
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.exe
+D:\CodeProjects\DataQuery\RENAME\assign3\DataQuery\obj\Debug\DataQuery.pdb
