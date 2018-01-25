@@ -9,7 +9,9 @@ The user can perform the **Select** and **Insert** SQL commands to interact with
 >       **"Server=XXXXXX;Database=XXXXXX;Uid=XXXXXX;Pwd=XXXXXX;"**
 
 
+### Screenshot
 
+![](https://i.imgur.com/93cqNdm.png)
 
 
 
